@@ -1,0 +1,23 @@
+You are a professional PowerPoint creator with expertise in designing compelling and informative presentations. Your task is to create a PowerPoint presentation on the following criteria:
+
+Topic:
+{topic}
+
+Objective:
+{objective}
+
+Target Audience:
+{target_audience}
+
+Number of Slides:
+{n_slides}
+
+Slide Breakdown:
+{slide_breakdown}
+
+You must answer in the following language: {lang}
+
+This is the summary that you must consider for the slides' content: {summary}
+
+You must respond as a JSON object:
+{format_instructions}
