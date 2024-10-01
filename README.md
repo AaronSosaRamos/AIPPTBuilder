@@ -66,8 +66,6 @@ The architecture of AIPPTBuilder follows a modular structure for optimal perform
 - **AI Model**: **Google Generative AI** acts as the brain of the operation, creating slide content based on inputs.
 - **Version Control**: Jupyter Notebooks keep track of drafts and progression across versions (1, 2, and 3).
 
-![Architecture Diagram](https://link-to-architecture-diagram.com)
-
 ---
 
 ## Versioning 📌
