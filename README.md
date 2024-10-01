@@ -4,16 +4,17 @@ Welcome to **AIPPTBuilder**, an innovative backend module that leverages the pow
 
 ## Table of Contents 📑
 
-- [Introduction](#introduction)
-- [Key Features](#key-features)
-- [Use Cases](#use-cases)
-- [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Versioning](#versioning)
-- [Installation Guide](#installation-guide)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction](#introduction-)
+- [Key Features](#key-features-)
+- [Use Cases](#use-cases-)
+- [Tech Stack](#tech-stack-)
+- [Architecture](#architecture-)
+- [Versioning](#versioning-)
+- [Installation Guide](#installation-guide-)
+- [How to Use](#how-to-use-)
+- [Contributing](#contributing-)
+- [License](#license-)
+- [Acknowledgments](#acknowledgments-)
 
 ---
 
@@ -65,6 +66,8 @@ The architecture of AIPPTBuilder follows a modular structure for optimal perform
 - **Backend**: Built on **FastAPI**, ensuring efficient handling of API requests and model inference.
 - **AI Model**: **Google Generative AI** acts as the brain of the operation, creating slide content based on inputs.
 - **Version Control**: Jupyter Notebooks keep track of drafts and progression across versions (1, 2, and 3).
+
+![Architecture Diagram](https://link-to-architecture-diagram.com)
 
 ---
 
